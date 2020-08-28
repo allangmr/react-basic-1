@@ -9,3 +9,4 @@ const divRoot = document.querySelector('#app');
 
 
 ReactDOM.render( <CounterApp  value={0}/> , divRoot);
+//ReactDOM.render( <PrimeraApp  saludo="Hola, Soy Paco"/> , divRoot);
